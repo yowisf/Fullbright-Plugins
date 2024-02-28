@@ -24,6 +24,7 @@ en las ultimas lineas añadir esto.
 
     
 ```
+y luego Reiniciar iw4admin.
 
 ## Help
 * No dudes en unirte al **KFC Community** [Discord](https://discord.gg/DeZkVyrrrr)  
